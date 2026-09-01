@@ -1,0 +1,13 @@
+datasets
+numba
+numpy
+pandas
+peft
+PyYAML
+recbole
+scipy
+sentence-transformers
+torch
+tqdm
+transformers
+trl
